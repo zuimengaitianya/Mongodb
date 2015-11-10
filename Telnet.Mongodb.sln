@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Mongodb", "Telnet.Mongodb\Telnet.Mongodb.csproj", "{556B02DE-D014-4845-8F66-F2D60E62D4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.DAL", "Telnet.DAL\Telnet.DAL.csproj", "{82A5961F-43B9-4664-B0C4-44C37D689B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Common", "Telnet.Common\Telnet.Common.csproj", "{13674851-19E1-4FAA-9E15-86D481216EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Bll", "Telnet.Bll\Telnet.Bll.csproj", "{92CFE6CC-9115-40AB-959D-ABE5493032BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telnet.Entity", "Telnet.Entity\Telnet.Entity.csproj", "{5CE2929E-51B8-444D-B59A-268033639F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556B02DE-D014-4845-8F66-F2D60E62D4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556B02DE-D014-4845-8F66-F2D60E62D4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556B02DE-D014-4845-8F66-F2D60E62D4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556B02DE-D014-4845-8F66-F2D60E62D4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A5961F-43B9-4664-B0C4-44C37D689B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A5961F-43B9-4664-B0C4-44C37D689B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A5961F-43B9-4664-B0C4-44C37D689B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A5961F-43B9-4664-B0C4-44C37D689B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13674851-19E1-4FAA-9E15-86D481216EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13674851-19E1-4FAA-9E15-86D481216EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13674851-19E1-4FAA-9E15-86D481216EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13674851-19E1-4FAA-9E15-86D481216EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CFE6CC-9115-40AB-959D-ABE5493032BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CFE6CC-9115-40AB-959D-ABE5493032BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CFE6CC-9115-40AB-959D-ABE5493032BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CFE6CC-9115-40AB-959D-ABE5493032BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE2929E-51B8-444D-B59A-268033639F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE2929E-51B8-444D-B59A-268033639F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE2929E-51B8-444D-B59A-268033639F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE2929E-51B8-444D-B59A-268033639F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

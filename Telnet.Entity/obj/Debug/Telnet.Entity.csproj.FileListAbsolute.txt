@@ -1,0 +1,5 @@
+E:\VS2012Projects\Telnet.Mongodb\Telnet.Entity\bin\Debug\Telnet.Entity.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.Entity\bin\Debug\Telnet.Entity.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.Entity\obj\Debug\Telnet.Entity.csprojResolveAssemblyReference.cache
+E:\VS2012Projects\Telnet.Mongodb\Telnet.Entity\obj\Debug\Telnet.Entity.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.Entity\obj\Debug\Telnet.Entity.pdb

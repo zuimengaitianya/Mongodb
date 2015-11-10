@@ -1,0 +1,15 @@
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.DAL.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.DAL.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Bson.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Driver.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.Common.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.Common.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Bson.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Bson.xml
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Driver.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\MongoDB.Driver.xml
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\obj\Debug\Telnet.DAL.csprojResolveAssemblyReference.cache
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\obj\Debug\Telnet.DAL.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\obj\Debug\Telnet.DAL.pdb
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.Entity.dll
+E:\VS2012Projects\Telnet.Mongodb\Telnet.DAL\bin\Debug\Telnet.Entity.pdb
